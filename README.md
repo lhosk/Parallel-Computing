@@ -1,3 +1,3 @@
 ## Parallel Computing (ITCS 6145 @ UNCC) HW 
-Numerical Integration on HPC using pthreading and OpenMP
+Numerical Integration on HPC using pthreading and OpenMP <br>
 Polynomial Expansion on HPC using Cuda
