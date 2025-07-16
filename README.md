@@ -1,3 +1,3 @@
-## Parallel Computing (ITCS 6145 @ UNCC) HW 
+## Parallel Computing Projects using UNCC HPCs
 Numerical Integration on HPC using pthreading and OpenMP <br>
 Polynomial Expansion on HPC using Cuda
